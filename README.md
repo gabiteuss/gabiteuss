@@ -1,5 +1,21 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?..."/>
+
+...
+
+E os ```text que aparecem no README acima são intencionais: eles ficam somente nas caixas de terminal, como WHOAMI, SECURITY.FOCUS e ROADMAP.
+
+Depois de salvar, o perfil deverá mostrar o banner roxo animado no topo, o texto digitando e os elementos Cybersecurity — em vez daquela grande caixa mostrando o código.
+
+me manda o codigo todo agora com as devidas correções
+
+Claro. Abaixo está o README inteiro corrigido, pronto para copiar e colar no README.md.
+
+Importante: não coloque nenhum ``` envolvendo o código inteiro. O primeiro caractere do arquivo deve ser <div align="center">.
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05000A,45:17002B,100:8A2BE2&height=220&section=header&text=GABITEUSS&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%2F%2F%20RED%20TEAM%20%2F%2F%20COMPUTER%20SCIENCE&descAlignY=60&descSize=15"/>
 
 <br>
