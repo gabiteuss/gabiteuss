@@ -10,8 +10,8 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RED_TEAM-ACTIVE-D946EF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SECURITY-LABS-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AREA-RED%20TEAM-D946EF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-LEARNING-6C00FF?style=for-the-badge"/>
 
 <br><br>
@@ -22,102 +22,86 @@
 
 ---
 
-# `>_ WHOAMI`
-
-<div align="center">
+## `>_ WHOAMI`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                    GABITEUSS // PROFILE                     │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  NAME       :: Gabriel Matheus                               │
-│  USER       :: gabiteuss                                     │
-│  ROLE       :: Computer Science Student                      │
-│  FOCUS      :: Cybersecurity                                 │
-│  SPECIALTY  :: Red Team                                      │
-│  STATUS     :: Currently Learning                            │
+│  ROLE        :: Computer Science Student                    │
+│  FOCUS       :: Cybersecurity                               │
+│  SPECIALTY   :: Red Team                                    │
+│  TRAINING    :: TryHackMe + Microsoft Learn                 │
+│  STATUS      :: Currently Learning                          │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ````
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=800&lines=%3E+Initializing+security+profile...;%3E+Loading+training+modules...;%3E+Analyzing+attack+surfaces...;%3E+Building+offensive+security+skills...;%3E+Mission%3A+Learn.+Practice.+Improve." alt="Whoami Animation"/>
+### 👨‍💻 About Me
 
-</div>
+Sou estudante de **Ciência da Computação**, atualmente construindo minha base em **Cybersecurity**, com interesse crescente em **Red Team** e segurança ofensiva.
 
-### 👨‍💻 Sobre mim
+Meu aprendizado combina **fundamentos teóricos, laboratórios práticos e desafios de segurança**, explorando redes, sistemas operacionais, segurança web e conceitos de segurança ofensiva.
 
-Sou estudante de **Ciência da Computação** com foco em **Cybersecurity** e interesse crescente em **Red Team**.
-
-Atualmente estou construindo minha base através de estudos, laboratórios práticos e desafios de segurança, explorando conceitos de:
+Atualmente, meu foco está em transformar conhecimento em prática através de:
 
 * 🌐 Networking
 * 🐧 Linux
 * 🪟 Windows
 * 🌎 Web Security
 * 🔎 Enumeration
-* 🛡️ Security Fundamentals
-* ⚔️ Offensive Security
+* ⚔️ Red Team
 * 🔐 Ethical Hacking
+* 🛡️ Security Fundamentals
 
-Meu objetivo é evoluir constantemente na área de cybersecurity, transformando conhecimento teórico em experiência prática.
-
-```text
-LEARN
-  ↓
-PRACTICE
-  ↓
-ANALYZE
-  ↓
-DOCUMENT
-  ↓
-IMPROVE
-```
+> `LEARN → PRACTICE → ANALYZE → DOCUMENT → IMPROVE`
 
 ---
 
-# `>_ CYBERSECURITY.FOCUS`
+## `>_ SECURITY.FOCUS`
 
 <div align="center">
 
 ```text
-                         ┌───────────────────┐
-                         │   CYBERSECURITY   │
-                         │      STUDENT      │
-                         └─────────┬─────────┘
+                         ┌──────────────────┐
+                         │   CYBERSECURITY  │
+                         └─────────┬────────┘
                                    │
-              ┌────────────────────┼────────────────────┐
-              ▼                    ▼                    ▼
-        ┌───────────┐        ┌───────────┐        ┌─────────────┐
-        │ NETWORKING│        │   LINUX   │        │ WEB SECURITY│
-        └─────┬─────┘        └─────┬─────┘        └──────┬──────┘
-              │                    │                     │
-              └────────────────────┼─────────────────────┘
+             ┌─────────────────────┼─────────────────────┐
+             │                     │                     │
+             ▼                     ▼                     ▼
+        ┌──────────┐          ┌──────────┐          ┌──────────┐
+        │ NETWORK  │          │  LINUX   │          │   WEB    │
+        │ SECURITY │          │ SECURITY │          │ SECURITY │
+        └────┬─────┘          └────┬─────┘          └────┬─────┘
+             │                     │                     │
+             └─────────────────────┼─────────────────────┘
                                    ▼
-                            ┌─────────────┐
-                            │ ENUMERATION │
-                            └──────┬──────┘
+                            ┌──────────────┐
+                            │ ENUMERATION  │
+                            └──────┬───────┘
                                    ▼
-                       ┌─────────────────────┐
-                       │ SECURITY LABORATORY │
-                       └──────────┬──────────┘
+                          ┌─────────────────┐
+                          │ SECURITY LABS   │
+                          └────────┬────────┘
+                                   ▼
+                            ┌────────────┐
+                            │  RED TEAM  │
+                            └─────┬──────┘
                                   ▼
-                           ┌────────────┐
-                           │  RED TEAM  │
-                           └─────┬──────┘
-                                 ▼
-                       ┌────────────────────┐
-                       │ SECURITY ANALYSIS  │
-                       └────────────────────┘
+                         ┌──────────────────┐
+                         │ SECURITY ANALYSIS│
+                         └──────────────────┘
 ```
 
 </div>
 
 ---
 
-# `>_ TECH.STACK`
+## `>_ TECH.STACK`
 
-## 💻 Programming
+### Languages
 
 <div align="center">
 
@@ -125,9 +109,7 @@ IMPROVE
 
 </div>
 
-<br>
-
-## 🐧 Operating Systems
+### Operating Systems
 
 <div align="center">
 
@@ -135,9 +117,7 @@ IMPROVE
 
 </div>
 
-<br>
-
-## 🌐 Networking & Web Security
+### Networking & Web
 
 <div align="center">
 
@@ -149,9 +129,7 @@ IMPROVE
 
 </div>
 
-<br>
-
-## 🛡️ Security Tools
+### Security Tools
 
 <div align="center">
 
@@ -166,9 +144,9 @@ IMPROVE
 
 ---
 
-# `>_ TRAINING.PROTOCOL`
+## `>_ TRAINING`
 
-## 🔮 TRYHACKME
+### 🔮 TryHackMe
 
 <div align="center">
 
@@ -180,7 +158,7 @@ IMPROVE
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+ACCESSING+TRYHACKME...;%3E+SECURITY+LABS%3A+ONLINE;%3E+ENUMERATION+MODULE%3A+ACTIVE;%3E+WEB+SECURITY+MODULE%3A+ACTIVE;%3E+RED+TEAM+TRAINING%3A+ACTIVE" alt="TryHackMe Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%3E+SECURITY+LABS%3A+ONLINE;%3E+HANDS--ON+TRAINING%3A+ACTIVE;%3E+ENUMERATION%3A+IN+PROGRESS;%3E+WEB+SECURITY%3A+IN+PROGRESS;%3E+RED+TEAM%3A+TRAINING" alt="TryHackMe Training"/>
 
 </div>
 
@@ -191,52 +169,46 @@ IMPROVE
 │  MODE   :: HANDS-ON SECURITY LABS                         │
 │  STATUS :: ACTIVE LEARNING                                │
 │                                                            │
-│  ► Cybersecurity Fundamentals                              │
-│  ► Networking                                              │
-│  ► Linux                                                   │
-│  ► Enumeration                                             │
-│  ► Web Security                                            │
-│  ► Privilege Escalation                                    │
-│  ► Red Team                                                │
+│  Cybersecurity Fundamentals                                │
+│  Networking                                                │
+│  Linux                                                     │
+│  Enumeration                                               │
+│  Web Security                                              │
+│  Privilege Escalation                                      │
+│  Red Team                                                  │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
-🧪 Aprendizado prático através de **laboratórios e ambientes autorizados**.
+> 🧪 Prática realizada através de laboratórios e ambientes autorizados.
 
----
-
-## ☁️ MICROSOFT LEARN
+### ☁️ Microsoft Learn
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/MICROSOFT%20LEARN-SECURITY%20%26%20CLOUD-A855F7?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=D946EF&center=true&vCenter=true&width=700&lines=%3E+LOADING+MICROSOFT+SECURITY...;%3E+IDENTITY+%26+ACCESS+%5BACTIVE%5D;%3E+AZURE+FUNDAMENTALS+%5BACTIVE%5D;%3E+CLOUD+SECURITY+%5BIN+PROGRESS%5D" alt="Microsoft Learn Animation"/>
 
 </div>
 
 ```text
 ┌──[ MICROSOFT LEARN ]───────────────────────────────────────┐
 │                                                            │
-│  ► Security Fundamentals                                   │
-│  ► Azure Fundamentals                                      │
-│  ► Identity & Access                                       │
-│  ► Cloud Concepts                                          │
-│  ► Microsoft Security                                      │
+│  Security Fundamentals                                    │
+│  Azure Fundamentals                                       │
+│  Identity & Access                                        │
+│  Cloud Concepts                                           │
+│  Microsoft Security                                       │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `>_ CURRENT.MISSION`
+## `>_ CURRENT.MISSION`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=600&color=A855F7&center=true&vCenter=true&width=800&lines=%3E+EXECUTING+CURRENT_OBJECTIVES...;%3E+ANALYZING+SECURITY+SKILLS...;%3E+UPDATING+TRAINING+PROGRESS...;%3E+MISSION+STATUS%3A+IN+PROGRESS" alt="Mission Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+EXECUTING+CURRENT_OBJECTIVES...;%3E+ANALYZING+SECURITY+SKILLS...;%3E+UPDATING+TRAINING+PROGRESS...;%3E+MISSION+STATUS%3A+IN+PROGRESS" alt="Mission Status"/>
 
 </div>
 
@@ -257,139 +229,98 @@ MISSION STATUS: IN PROGRESS
 
 ---
 
-# `>_ SECURITY.MONITOR`
+## `>_ PROJECTS`
 
-<div align="center">
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│                 SECURITY MONITOR v1.0                     │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  NETWORKING             [████████████████░░░░] 80%        │
-│  WEB SECURITY           [██████████████░░░░░░] 70%        │
-│  ENUMERATION            [████████████░░░░░░░░] 60%        │
-│  PRIVILEGE ESCALATION   [██████████░░░░░░░░░░] 50%        │
-│  WINDOWS SECURITY       [████████░░░░░░░░░░░░] 40%        │
-│  CLOUD SECURITY         [██████░░░░░░░░░░░░░░] 30%        │
-│                                                            │
-│  SYSTEM STATUS :: LEARNING                                 │
-│  SECURITY LAB :: ACTIVE                                    │
-│  RED TEAM      :: TRAINING                                 │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `>_ PROJECTS.LAB`
-
-## 🛒 Codermarket
+### 🛒 Codermarket
 
 **Java · Software Project · Active**
 
 Projeto desenvolvido durante minha formação em programação.
 
 <a href="https://github.com/gabiteuss/Codermarket">
-
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
 </a>
 
 ---
 
-## 📚 Projeto Estudos
+### 📚 Projeto Estudos
 
 **Study Repository · Learning & Practice · Active**
 
 Repositório utilizado para praticar programação e consolidar conhecimentos.
 
 <a href="https://github.com/gabiteuss/projeto-estudos">
-
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-A855F7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
 </a>
 
 ---
 
-## 🚗 Catraca Estacionamento
+### 🚗 Catraca Estacionamento
 
 **Academic Project · Programming Practice · Study**
 
 Projeto acadêmico voltado para prática de programação e desenvolvimento de sistemas.
 
 <a href="https://github.com/gabiteuss/catraca-estacionamento">
-
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D946EF?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
 </a>
 
 ---
 
-## 🔐 Academia Segura
+### 🔐 Academia Segura
 
 **Academic Project · Software Development · Study**
 
 Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 <a href="https://github.com/gabiteuss/Academia-segura">
-
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6C00FF?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
 </a>
 
 ---
 
-# `>_ LEARNING.ROADMAP`
+## `>_ ROADMAP`
 
 <div align="center">
 
 ```text
-                    CYBERSECURITY ROADMAP
+                     CYBERSECURITY ROADMAP
 
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   FUNDAMENTALS  │
-                  └────────┬────────┘
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-        NETWORKING       LINUX        WINDOWS
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                    WEB SECURITY
-                           │
-                           ▼
-                     ENUMERATION
-                           │
-                           ▼
-                PRIVILEGE ESCALATION
-                           │
-                           ▼
-                    ACTIVE DIRECTORY
-                           │
-                           ▼
-                       RED TEAM
-                           │
-                           ▼
-                   CLOUD SECURITY
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │   FUNDAMENTALS  │
+                   └────────┬────────┘
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+         NETWORKING       LINUX        WINDOWS
+              │             │             │
+              └─────────────┼─────────────┘
+                            ▼
+                     WEB SECURITY
+                            │
+                            ▼
+                      ENUMERATION
+                            │
+                            ▼
+                  PRIVILEGE ESCALATION
+                            │
+                            ▼
+                     ACTIVE DIRECTORY
+                            │
+                            ▼
+                        RED TEAM
+                            │
+                            ▼
+                    CLOUD SECURITY
 ```
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+ROADMAP+INITIALIZED;%3E+FUNDAMENTALS+%E2%86%92+NETWORKING+%E2%86%92+LINUX;%3E+WEB+SECURITY+%E2%86%92+ENUMERATION;%3E+PRIVESC+%E2%86%92+ACTIVE+DIRECTORY;%3E+RED+TEAM+%E2%86%92+CLOUD+SECURITY" alt="Roadmap Animation"/>
 
 </div>
 
 ---
 
-# `>_ GITHUB.INTELLIGENCE`
+## `>_ GITHUB.INTELLIGENCE`
 
 <div align="center">
 
@@ -409,7 +340,7 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 ---
 
-# `>_ ACTIVITY.MATRIX`
+## `>_ ACTIVITY`
 
 <div align="center">
 
@@ -419,7 +350,7 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 ---
 
-# `>_ CONTRIBUTION.SNAKE`
+## `>_ CONTRIBUTIONS`
 
 <div align="center">
 
@@ -429,48 +360,25 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 ---
 
-# `>_ SYSTEM.LOG`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+%5D+Security+modules+loaded...;%5B+SYSTEM+%5D+Training+environment+ready...;%5B+SYSTEM+%5D+Red+Team+training+active...;%5B+SYSTEM+%5D+Continuous+learning+enabled...;%5B+SYSTEM+%5D+Mission+in+progress..." alt="System Log Animation"/>
-
-</div>
-
----
-
-# `>_ CONNECT`
+## `>_ CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/gabiteuss">
-
 <img src="https://img.shields.io/badge/GITHUB-05000A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-matheus-concei%C3%A7%C3%A3o-627021205/">
-
 <img src="https://img.shields.io/badge/LINKEDIN-05000A?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
-
 </a>
 
 <a href="https://tryhackme.com/p/gabrielmatheus478">
-
 <img src="https://img.shields.io/badge/TRYHACKME-05000A?style=for-the-badge&logo=tryhackme&logoColor=D946EF"/>
-
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=%3E+LEARN;%3E+PRACTICE;%3E+ANALYZE;%3E+DOCUMENT;%3E+DEFEND" alt="Final Animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LEARN-6C00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PRACTICE-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ANALYZE-D946EF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEFEND-A855F7?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Learning+Cybersecurity.;Practicing+in+authorized+labs.;Building+a+Red+Team+mindset.;One+lab.+One+commit.+One+step+forward." alt="Final Animation"/>
 
 <br><br>
 
@@ -478,11 +386,9 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:24003D,100:05000A&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:24003D,100:05000A&height=100&section=footer"/>
 ```
 
-**É só copiar o conteúdo dentro do bloco e substituir o seu `README.md`.**
+Essa versão fica mais próxima de um **portfólio profissional de Cybersecurity**, mantendo a identidade visual que você pediu. O topo foi preservado no mesmo estilo da versão anterior, enquanto as animações ficaram principalmente no **header, treinamento, missão e encerramento**. Seu roadmap e os projetos também continuam refletindo o conteúdo original.
 
-Uma observação importante: as animações de `readme-typing-svg` e `capsule-render` funcionam externamente, então não precisam de JavaScript no GitHub. Mantive também seus links e projetos atuais.
-
-Se você quiser um nível ainda mais alto de personalização, o próximo passo seria colocar **um GIF cyberpunk próprio no topo**, com `GABITEUSS`, terminal Kali, linhas de código passando e efeito de scan. Isso deixaria o perfil bem mais único.
+**Uma mudança que eu recomendo depois:** transformar o `CURRENT.MISSION` em um painel visual ainda mais sofisticado, com **SCAN / ENUMERATION / WEB / LINUX / WINDOWS / CLOUD**, dando aquela aparência de **terminal de Red Team real**, mas sem deixar o README infantil ou exageradamente "hacker".
