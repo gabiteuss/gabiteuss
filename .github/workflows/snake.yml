@@ -1,0 +1,33 @@
+name: Generate Cyber Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate purple contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: gabiteuss
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#D946EF&color_dots=#1B0033,#4C1D95,#6D28D9,#A855F7,#D946EF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#D946EF&color_dots=#12001F,#4C1D95,#6D28D9,#A855F7,#D946EF
+
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
