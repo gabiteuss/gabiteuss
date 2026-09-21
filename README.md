@@ -1,23 +1,30 @@
-# ⚡ GABITEUSS // CYBERSECURITY
-
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05000A,45:17002B,100:8A2BE2&height=220&section=header&text=GABITEUSS&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%2F%2F%20RED%20TEAM%20%2F%2F%20COMPUTER%20SCIENCE&descAlignY=58&descSize=15"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+SECURITY+PROTOCOLS...;%3E+CYBERSECURITY+STUDENT;%3E+RED+TEAM+TRAINING%3A+ACTIVE;%3E+LEARN.+PRACTICE.+ANALYZE.+DEFEND.;%3E+SYSTEM+STATUS%3A+LEARNING" alt="Typing Animation"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05000A,45:17002B,100:8A2BE2&height=220&section=header&text=GABITEUSS&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%2F%2F%20RED%20TEAM%20%2F%2F%20COMPUTER%20SCIENCE&descAlignY=60&descSize=15"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AREA-RED%20TEAM-D946EF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ENVIRONMENT-AUTHORIZED%20LABS-6C00FF?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=%3E+BOOTING+GABITEUSS...;%3E+LOADING+CYBERSECURITY+MODULES...;%3E+CONNECTING+TO+SECURITY+LAB...;%3E+RED+TEAM+TRAINING%3A+ACTIVE;%3E+NETWORK+%5BONLINE%5D;%3E+LINUX+%5BONLINE%5D;%3E+WEB+SECURITY+%5BACTIVE%5D;%3E+SYSTEM+STATUS%3A+LEARNING" alt="Cybersecurity Terminal"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RED_TEAM-ACTIVE-D946EF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-LABS-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-6C00FF?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gabiteuss&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `>_ WHOAMI`
+# `>_ WHOAMI`
+
+<div align="center">
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -32,11 +39,17 @@
 │  STATUS     :: Currently Learning                            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
+````
 
-> 👨‍💻 Estudante de **Ciência da Computação** com foco em **Cybersecurity** e interesse crescente em **Red Team**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=800&lines=%3E+Initializing+security+profile...;%3E+Loading+training+modules...;%3E+Analyzing+attack+surfaces...;%3E+Building+offensive+security+skills...;%3E+Mission%3A+Learn.+Practice.+Improve." alt="Whoami Animation"/>
 
-Atualmente estou construindo minha base através de **estudos, laboratórios práticos e desafios de segurança**, explorando conceitos de:
+</div>
+
+### 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação** com foco em **Cybersecurity** e interesse crescente em **Red Team**.
+
+Atualmente estou construindo minha base através de estudos, laboratórios práticos e desafios de segurança, explorando conceitos de:
 
 * 🌐 Networking
 * 🐧 Linux
@@ -47,13 +60,25 @@ Atualmente estou construindo minha base através de **estudos, laboratórios pr�
 * ⚔️ Offensive Security
 * 🔐 Ethical Hacking
 
-Meu objetivo é evoluir constantemente na área de cybersecurity, transformando **conhecimento teórico em experiência prática**.
+Meu objetivo é evoluir constantemente na área de cybersecurity, transformando conhecimento teórico em experiência prática.
 
-> `LEARN → PRACTICE → ANALYZE → DOCUMENT → IMPROVE`
+```text
+LEARN
+  ↓
+PRACTICE
+  ↓
+ANALYZE
+  ↓
+DOCUMENT
+  ↓
+IMPROVE
+```
 
 ---
 
-## `>_ CYBERSECURITY.FOCUS`
+# `>_ CYBERSECURITY.FOCUS`
+
+<div align="center">
 
 ```text
                          ┌───────────────────┐
@@ -86,11 +111,13 @@ Meu objetivo é evoluir constantemente na área de cybersecurity, transformando 
                        └────────────────────┘
 ```
 
+</div>
+
 ---
 
-## `>_ TECH.STACK`
+# `>_ TECH.STACK`
 
-### 💻 Programming
+## 💻 Programming
 
 <div align="center">
 
@@ -98,7 +125,9 @@ Meu objetivo é evoluir constantemente na área de cybersecurity, transformando 
 
 </div>
 
-### 🐧 Operating Systems
+<br>
+
+## 🐧 Operating Systems
 
 <div align="center">
 
@@ -106,7 +135,9 @@ Meu objetivo é evoluir constantemente na área de cybersecurity, transformando 
 
 </div>
 
-### 🌐 Networking & Web Security
+<br>
+
+## 🌐 Networking & Web Security
 
 <div align="center">
 
@@ -118,7 +149,9 @@ Meu objetivo é evoluir constantemente na área de cybersecurity, transformando 
 
 </div>
 
-### 🛡️ Security Tools
+<br>
+
+## 🛡️ Security Tools
 
 <div align="center">
 
@@ -133,15 +166,21 @@ Meu objetivo é evoluir constantemente na área de cybersecurity, transformando 
 
 ---
 
-## `>_ TRAINING.PROTOCOL`
+# `>_ TRAINING.PROTOCOL`
 
-### 🔮 TRYHACKME
+## 🔮 TRYHACKME
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/gabrielmatheus478">
+
 <img src="https://img.shields.io/badge/TRYHACKME-GABRIELMATHEUS478-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF"/>
+
 </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+ACCESSING+TRYHACKME...;%3E+SECURITY+LABS%3A+ONLINE;%3E+ENUMERATION+MODULE%3A+ACTIVE;%3E+WEB+SECURITY+MODULE%3A+ACTIVE;%3E+RED+TEAM+TRAINING%3A+ACTIVE" alt="TryHackMe Animation"/>
 
 </div>
 
@@ -165,23 +204,41 @@ Meu objetivo é evoluir constantemente na área de cybersecurity, transformando 
 
 🧪 Aprendizado prático através de **laboratórios e ambientes autorizados**.
 
-### ☁️ MICROSOFT LEARN
+---
+
+## ☁️ MICROSOFT LEARN
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MICROSOFT%20LEARN-SECURITY%20%26%20CLOUD-A855F7?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=D946EF&center=true&vCenter=true&width=700&lines=%3E+LOADING+MICROSOFT+SECURITY...;%3E+IDENTITY+%26+ACCESS+%5BACTIVE%5D;%3E+AZURE+FUNDAMENTALS+%5BACTIVE%5D;%3E+CLOUD+SECURITY+%5BIN+PROGRESS%5D" alt="Microsoft Learn Animation"/>
+
+</div>
 
 ```text
 ┌──[ MICROSOFT LEARN ]───────────────────────────────────────┐
 │                                                            │
 │  ► Security Fundamentals                                   │
 │  ► Azure Fundamentals                                      │
-│  ► Identity & Access                                      │
-│  ► Cloud Concepts                                         │
-│  ► Microsoft Security                                     │
+│  ► Identity & Access                                       │
+│  ► Cloud Concepts                                          │
+│  ► Microsoft Security                                      │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `>_ CURRENT.MISSION`
+# `>_ CURRENT.MISSION`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=600&color=A855F7&center=true&vCenter=true&width=800&lines=%3E+EXECUTING+CURRENT_OBJECTIVES...;%3E+ANALYZING+SECURITY+SKILLS...;%3E+UPDATING+TRAINING+PROGRESS...;%3E+MISSION+STATUS%3A+IN+PROGRESS" alt="Mission Animation"/>
+
+</div>
 
 ```text
 gabiteuss@kali:~/cybersecurity$ ./current_objectives.sh
@@ -200,51 +257,94 @@ MISSION STATUS: IN PROGRESS
 
 ---
 
-## `>_ PROJECTS.LAB`
+# `>_ SECURITY.MONITOR`
 
-### 🛒 Codermarket
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                 SECURITY MONITOR v1.0                     │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  NETWORKING             [████████████████░░░░] 80%        │
+│  WEB SECURITY           [██████████████░░░░░░] 70%        │
+│  ENUMERATION            [████████████░░░░░░░░] 60%        │
+│  PRIVILEGE ESCALATION   [██████████░░░░░░░░░░] 50%        │
+│  WINDOWS SECURITY       [████████░░░░░░░░░░░░] 40%        │
+│  CLOUD SECURITY         [██████░░░░░░░░░░░░░░] 30%        │
+│                                                            │
+│  SYSTEM STATUS :: LEARNING                                 │
+│  SECURITY LAB :: ACTIVE                                    │
+│  RED TEAM      :: TRAINING                                 │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# `>_ PROJECTS.LAB`
+
+## 🛒 Codermarket
 
 **Java · Software Project · Active**
 
 Projeto desenvolvido durante minha formação em programação.
 
 <a href="https://github.com/gabiteuss/Codermarket">
+
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
 
-### 📚 Projeto Estudos
+---
+
+## 📚 Projeto Estudos
 
 **Study Repository · Learning & Practice · Active**
 
 Repositório utilizado para praticar programação e consolidar conhecimentos.
 
 <a href="https://github.com/gabiteuss/projeto-estudos">
+
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-A855F7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
 
-### 🚗 Catraca Estacionamento
+---
+
+## 🚗 Catraca Estacionamento
 
 **Academic Project · Programming Practice · Study**
 
 Projeto acadêmico voltado para prática de programação e desenvolvimento de sistemas.
 
 <a href="https://github.com/gabiteuss/catraca-estacionamento">
+
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-D946EF?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
 
-### 🔐 Academia Segura
+---
+
+## 🔐 Academia Segura
 
 **Academic Project · Software Development · Study**
 
 Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 <a href="https://github.com/gabiteuss/Academia-segura">
+
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-6C00FF?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
 
 ---
 
-## `>_ LEARNING.ROADMAP`
+# `>_ LEARNING.ROADMAP`
+
+<div align="center">
 
 ```text
                     CYBERSECURITY ROADMAP
@@ -279,9 +379,17 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
                    CLOUD SECURITY
 ```
 
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+ROADMAP+INITIALIZED;%3E+FUNDAMENTALS+%E2%86%92+NETWORKING+%E2%86%92+LINUX;%3E+WEB+SECURITY+%E2%86%92+ENUMERATION;%3E+PRIVESC+%E2%86%92+ACTIVE+DIRECTORY;%3E+RED+TEAM+%E2%86%92+CLOUD+SECURITY" alt="Roadmap Animation"/>
+
+</div>
+
 ---
 
-## `>_ GITHUB.INTELLIGENCE`
+# `>_ GITHUB.INTELLIGENCE`
 
 <div align="center">
 
@@ -301,7 +409,7 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 ---
 
-## `>_ ACTIVITY.MATRIX`
+# `>_ ACTIVITY.MATRIX`
 
 <div align="center">
 
@@ -311,7 +419,7 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 ---
 
-## `>_ CONTRIBUTION.SNAKE`
+# `>_ CONTRIBUTION.SNAKE`
 
 <div align="center">
 
@@ -321,29 +429,41 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 ---
 
-## `>_ CONNECT`
+# `>_ SYSTEM.LOG`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+%5D+Security+modules+loaded...;%5B+SYSTEM+%5D+Training+environment+ready...;%5B+SYSTEM+%5D+Red+Team+training+active...;%5B+SYSTEM+%5D+Continuous+learning+enabled...;%5B+SYSTEM+%5D+Mission+in+progress..." alt="System Log Animation"/>
+
+</div>
+
+---
+
+# `>_ CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/gabiteuss">
+
 <img src="https://img.shields.io/badge/GITHUB-05000A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-matheus-concei%C3%A7%C3%A3o-627021205/">
+
 <img src="https://img.shields.io/badge/LINKEDIN-05000A?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+
 </a>
 
 <a href="https://tryhackme.com/p/gabrielmatheus478">
+
 <img src="https://img.shields.io/badge/TRYHACKME-05000A?style=for-the-badge&logo=tryhackme&logoColor=D946EF"/>
+
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Learning+Cybersecurity.;Practicing+in+authorized+labs.;Building+a+Red+Team+mindset.;One+lab.+One+commit.+One+step+forward." alt="Final Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=%3E+LEARN;%3E+PRACTICE;%3E+ANALYZE;%3E+DOCUMENT;%3E+DEFEND" alt="Final Animation"/>
 
 <br><br>
 
@@ -358,4 +478,11 @@ Projeto acadêmico relacionado ao desenvolvimento de sistemas.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:24003D,100:05000A&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:24003D,100:05000A&height=110&section=footer"/>
+```
+
+**É só copiar o conteúdo dentro do bloco e substituir o seu `README.md`.**
+
+Uma observação importante: as animações de `readme-typing-svg` e `capsule-render` funcionam externamente, então não precisam de JavaScript no GitHub. Mantive também seus links e projetos atuais.
+
+Se você quiser um nível ainda mais alto de personalização, o próximo passo seria colocar **um GIF cyberpunk próprio no topo**, com `GABITEUSS`, terminal Kali, linhas de código passando e efeito de scan. Isso deixaria o perfil bem mais único.
