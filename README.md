@@ -1,33 +1,4 @@
-<div align="center">
 
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05000A,45:17002B,100:8A2BE2&height=220&section=header&text=GABITEUSS&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%2F%2F%20RED%20TEAM%20%2F%2F%20COMPUTER%20SCIENCE&descAlignY=60&descSize=15"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=%3E+BOOTING+GABITEUSS...;%3E+LOADING+CYBERSECURITY+MODULES...;%3E+CONNECTING+TO+SECURITY+LAB...;%3E+RED+TEAM+TRAINING%3A+ACTIVE;%3E+NETWORK+%5BONLINE%5D;%3E+LINUX+%5BONLINE%5D;%3E+WEB+SECURITY+%5BACTIVE%5D;%3E+SYSTEM+STATUS%3A+LEARNING" alt="Cybersecurity Terminal"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AREA-RED%20TEAM-D946EF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING-6C00FF?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=gabiteuss&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-## `>_ WHOAMI`
-
-<div align="center">
-
-```text
 ┌──────────────────────────────────────────────────────────────┐
 │                    GABITEUSS // PROFILE                     │
 ├──────────────────────────────────────────────────────────────┤
